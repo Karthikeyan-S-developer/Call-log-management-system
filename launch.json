@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "CallLogManager",
+      "request": "launch",
+      "mainClass": "CallLogManager",
+      "projectName": "OOPS project_b83f787c"
+    },
+    {
+      "type": "java",
+      "name": "Launch CallLogManager",
+      "request": "launch",
+      "mainClass": "CallLogManager",
+      "projectName": "OOPS project"
+    }
+  ]
+}

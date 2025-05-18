@@ -1,0 +1,5 @@
+{
+  "java.project.referencedLibraries": [
+    "libs/mysql-connector-j-9.1.0.jar"  // Replace with your actual MySQL JDBC driver path
+  ]
+}
